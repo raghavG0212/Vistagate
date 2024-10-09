@@ -3,8 +3,3 @@ node_modules
 eslint.config.js
 Loader.svg
 Infinity@1x-1.0s-200px-200px.svg
-public
-index.html
-postcss.config.js
-tailwind.config.js
-vite.config.js
